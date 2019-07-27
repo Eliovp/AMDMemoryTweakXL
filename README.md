@@ -78,7 +78,7 @@ Cheers
  - Bugfixes
  - Navi?? Maybe :p
 
-License ?
+# Disclaimers
 ----
-
-##### GPL
+## None of the authors or anyone else connected with Eliovp, in any way whatsoever, can be held responsible for your use of the information contained in AMD Memory Tweak XL.
+## In no event will any of the authors be liable for any indirect, special, punitive, exemplary, incidental or consequential damages. This limitation will apply regardless of whether or not the other party has been advised of the possibility of such damages.
