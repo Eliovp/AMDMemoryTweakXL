@@ -8,7 +8,9 @@
 ![alt text](http://eliovp.com/Vega64.png)
 ![alt text](http://eliovp.com/RX480.png)
 
-### Support
+[Download](https://github.com/Eliovp/AMDMemoryTweakXL/releases/latest)
+
+# Support
 
   - GDDR5 Based AMD GPU's (ADL & MMIO) 
   - HBM / HBM2 Based AMD GPU's (ADL & MMIO)
