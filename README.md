@@ -7,16 +7,18 @@
 
 ![alt text](http://eliovp.com/Vega64.png)
 ![alt text](http://eliovp.com/RX480.png)
+![alt text](http://eliovp.com/Navi10.JPG)
 
 [Download](https://github.com/Eliovp/AMDMemoryTweakXL/releases/latest)
 
 # Support
 
+  - GDDR6 Based AMD GPU's (ADL)
   - GDDR5 Based AMD GPU's (ADL & MMIO) 
   - HBM / HBM2 Based AMD GPU's (ADL & MMIO)
   - Vega10 (PowerPlay & Strap Control)
   - Polaris (Powerplay & Strap Control)
-  - Navi10 might come later.. dunno .. we'll see
+  - Navi10 (PowerPlay "Read from Vbios & Registry, Write to Registry", Strap Control)
   - Windows
 
 # Requirements
@@ -30,8 +32,8 @@
 
   - MMIO Register Control (Read/Write) GDDR5/HBM/HBM2
   - ADL Overdrive (Read/Write) Latest Overdrive Versions supported
-  - PowerPlay Control (Read/Write) Polaris & Vega10
-  - Strap Control (Read/Write/Decode/Encode) Polaris & Vega10
+  - PowerPlay Control (Read/Write) Polaris, Vega10, Navi10
+  - Strap Control (Read/Write/Decode/Encode) Polaris, Vega10, Navi10
   - Import/Export all values
   - ...
 
@@ -76,7 +78,8 @@ Cheers
 ### Todos
 
  - Bugfixes
- - Navi?? Maybe :p
+ - Fix Vega20 (Strap Injection & PowerPlay)
+ - ....
 
 # Disclaimers
 ----
