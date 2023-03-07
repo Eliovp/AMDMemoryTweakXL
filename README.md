@@ -5,9 +5,7 @@
 #### Read and modify PPTable "on the fly"
 ---
 
-![alt text](http://eliovp.com/Vega64.png)
-![alt text](http://eliovp.com/RX480.png)
-![alt text](http://eliovp.com/Navi10.JPG)
+## Please be cautious, this --> https://github.com/ELI0VP <-- is obviously a fake account and is most probably spreading spyware/viruses, etc..
 
 [Download](https://github.com/Eliovp/AMDMemoryTweakXL/releases/latest)
 
